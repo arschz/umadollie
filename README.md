@@ -1,6 +1,6 @@
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://discordthings.com">DiscordThings</a> - Discord Bot List and Server List</li>
+  <li><a href="https://discordthings.com">DiscordThings</a> - Discord Bot List and future Server List - Emoji List</li>
   <li><a href="https://discord.com/api/oauth2/authorize?client_id=764252264214036491&permissions=0&scope=bot">MadBot</a> - A Discord Bot with a lot of things.</li>
 </ul>
 <div align="center">
